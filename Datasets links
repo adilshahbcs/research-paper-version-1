@@ -1,0 +1,33 @@
+1. MIT DB Lab Dataset
+
+This dataset was collected by the MIT Database Group to study human activity and environmental sensing in a laboratory setting.
+It includes:
+
+Sensor readings from various environmental sensors (e.g., temperature, humidity, light, sound).
+
+Data related to human presence, movement, and lab usage patterns.
+
+Use Cases:
+Useful for research in context-aware systems, activity recognition, and IoT data analysis.
+
+Source: MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)
+Link: https://db.csail.mit.edu/labdata/labdata.html
+
+License: Refer to the dataset page for licensing and usage terms.
+
+2. Zenodo Smart Building Sensor Dataset
+
+This dataset contains real-world sensor data collected from a smart building environment.
+It includes:
+
+Measurements such as temperature, humidity, light intensity, and CO₂ concentration.
+
+Time-series data from multiple sensors deployed in office spaces.
+
+Use Cases:
+Ideal for time-series forecasting, anomaly detection, and energy efficiency research.
+
+Source: Zenodo Open Research Data Repository
+Link: https://zenodo.org/records/2654726
+
+License: Open-access (see dataset record for specific license details).
