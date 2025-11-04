@@ -1,0 +1,18 @@
+Project Description
+
+This project contains all research materials, datasets, and documentation related to the paper titled “A Multi-Model Hybrid Convolutional Framework (MMH-CNN) for Efficient Event Detection in Wireless Sensor Networks.”
+The research focuses on developing and evaluating a novel hybrid deep learning model that integrates multiple lightweight CNN architectures (HST-CNN, Tiny-CNN, and MobileNet) to enhance event detection accuracy and reduce computational cost in resource-constrained Wireless Sensor Networks (WSNs).
+
+The repository includes:
+
+Complete research paper draft (in Word and PDF formats)
+
+Model architecture design and training configurations
+
+Dataset details (Intel Berkeley Lab and SensorScope WSN datasets)
+
+Experimental results, performance comparisons, and plots
+
+Supporting references and literature review documents
+
+This project serves as a collaborative workspace for the research team to review, modify, and enhance the MMH-CNN framework for future journal submission and model deployment in real-time WSN environments
